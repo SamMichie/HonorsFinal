@@ -1,0 +1,12 @@
+Name,Type,Spot Price,Strike Price,Volatility,Interest Rate,Time to Maturity
+option1,Call,20,30,10,0.5,2
+option2,Call,10,15,5,2,2
+option3,Call,100,150,2,0.5,3
+option4,Call,5,10,6,0.25,1.5
+option5,Call,250,350,5,4,1.5
+option6,Put,10,5,2,0.5,2
+option7,Put,25,35,5.5,2.25,0.5
+option8,Put,125,155,3.5,5.5,1
+option9,Put,60,30,2,4,2
+option10,Put,30,35,5,1.5,1.5
+Option11,Call,10,20,2,2,1
